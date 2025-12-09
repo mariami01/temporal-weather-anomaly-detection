@@ -32,7 +32,7 @@ The complete analysis, code, and visualizations are available in a Google Colabo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/temporal-weather-anomaly-detection.git](https://github.com/YourUsername/temporal-weather-anomaly-detection.git)
+    git clone https://github.com/mariami01/temporal-weather-anomaly-detection.git
     cd temporal-weather-anomaly-detection
     ```
 2.  **Install the necessary dependencies:**
